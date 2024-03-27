@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MerjaR
-- 👀 I’m interested in generative AI and other AI models, bioinformatics including metabolomics and systems biology, and data analytics
-- 🌱 I’m currently learning basic programming and python through courses and projects
-- 💞️ I welcome opportunities and projects that will help me develop my skills - I hope to develop them to a professional level.
+- 👋 Hi, I’m @MerjaR 
+- 👀 I’m learning to code at kood/Sisu coding school and my background is in metabolomics, systems biology and mass spectrometry (PhD). 
+- 🌱 I’m currently learning Golang by building programmes that can take in data, be run from the command line and contain all the elements required to collaborate with others. Also interested in Python for data analytics, AI and bioinformatics.
+- 💞️ I welcome opportunities and projects that will help me develop my skills - at kood/Sisu I will develop them to a professional level over 24 months.
 - 📫 You can reach me at merja.rossi@gmail.com
 
 <!---
