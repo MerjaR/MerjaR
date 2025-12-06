@@ -22,7 +22,6 @@ I like to take part in collaborative projects where I can continue growing my te
 📫 You can reach me at
 📧 merja.rossi@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerjaR&layout=compact&langs_count=9)
 
 <!---
 MerjaR/MerjaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
